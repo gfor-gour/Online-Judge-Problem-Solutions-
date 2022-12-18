@@ -1,0 +1,1 @@
+{"name":"Local: 1549B","url":"f:\\GOUR-C++\\codeforces_problem_solve\\1549B.cpp","tests":[{"id":1671008920879,"input":"4\n3\n000\n111\n4\n1111\n1111\n3\n010\n010\n5\n11001\n00000","output":"3\n4\n0\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GOUR-C++\\codeforces_problem_solve\\1549B.cpp","group":"local","local":true}
